@@ -9,8 +9,7 @@ Written by Lis from the Community Privacy Residency and Mayowa Tomori and hosted
 
 ### Contact the Mayor's Office?
 I've reached out to them several times. If you feel like wasting your breath:
-
-- 
+- mayor@santafenm.gov & communications@aclu-nm.org
 - Set the viewport dimensions to whatever you like.
 - The reader is mobile friendly in either orientation, but for better readability on small screens, set it to Landscape.
 
